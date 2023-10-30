@@ -5,6 +5,7 @@ Project group interested in predicting atmospheric river strength and temperatur
 **ESS 569 Students**
 - Chad Small
 - Danny Hogan
+
 **ESS 469 Students**
 - Hamzi
 - Jimmy
