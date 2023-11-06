@@ -1,0 +1,10 @@
+venv/
+data/01_raw/data_snotel_or_4000ft.nc
+data/01_raw/data_snotel_wa_4000ft.nc
+data/01_raw/era5_2014.nc
+data/01_raw/era5_2015.nc
+data/01_raw/era5_2016.nc
+data/01_raw/era5_2017.nc
+data/01_raw/era5_2018.nc
+data/01_raw/snotel_or_4000ft.geojson
+data/01_raw/snotel_wa_4000ft.geojson
