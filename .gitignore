@@ -28,3 +28,6 @@ data/02_processed/ERA-Interim-AR-Classification/ARscale_part2.nc
 data/02_processed/ERA-Interim-AR-Classification/LICENSE.txt
 data/02_processed/ERA-Interim-AR-Classification/MANIFEST.TXT
 data/02_processed/ERA-Interim-AR-Classification/README.txt
+data/02_processed/ERA-Interim-AR-Classification/ARscale.nc
+data/02_processed/ERA-Interim-AR-Classification/ARscale.nc.part1
+data/02_processed/ERA-Interim-AR-Classification/ARscale.nc.part2
