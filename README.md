@@ -7,5 +7,4 @@ Project group interested in predicting atmospheric river strength and temperatur
 - Danny Hogan
 
 **ESS 469 Students**
-- Hamzi
-- Jimmy
+- Hamzi Rapi
