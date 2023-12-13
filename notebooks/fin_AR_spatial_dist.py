@@ -40,7 +40,9 @@ from IPython.core.pylabtools import figsize
 from scipy import stats
 import sys
 
-#too many files to add up at once so I'm going to have to break up
+## This script by Chad Small breaks up each AR system into its individual objects and adds them up in space such that they can be plotted.
+## For computational reasons, it's often easier to break these up into multiple netcdf files. In this case, it's 5 files. See lines 46, 47 and 98/99
+
 instance = int(sys.argv[1])
 bef_ints = instance - 1
 
